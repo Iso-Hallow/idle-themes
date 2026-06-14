@@ -60,13 +60,13 @@
 ### ⭐ Если проект полезен — поставьте звезду!
 
 **Или поделись в соцсетях:**
-**[🔗 Скопировать ссылку на проект](https://github.com/Iso-Hallow/idle-themes)**
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/share/url?url=https://github.com/yourusername/idle-themes&text=Отличные%20темы%20для%20Python%20IDLE!)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.com/share.php?url=https://github.com/yourusername/idle-themes&title=Отличные%20темы%20для%20Python%20IDLE!)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/?text=Отличные%20темы%20для%20Python%20IDLE!%20https://github.com/yourusername/idle-themes)
 
 ---
+`https://github.com/Iso-Hallow/idle-themes`
 
 📄 Лицензия MIT
 
